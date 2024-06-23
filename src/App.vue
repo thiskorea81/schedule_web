@@ -16,7 +16,8 @@
       <section>
         <h2>Welcome to My Personal Website</h2>
         <p>This is the main content area.</p>
-        <p>이 페이지는 vue.js를 이용해서 만들어졌으며 제작 소스는 아래 깃허브 페이지를 참조하세요</p>
+        <p>오른쪽 일정관리 페이지는 로컬 저장소를 사용해서 일정을 작성한 pc에서만 볼 수 있습니다.</p>
+        <p>이 페이지는 chatGPT 4o를 이용해서 vue.js로 만들어졌으며 제작 소스는 아래 깃허브 페이지를 참조하세요</p>
         <a href="https://github.com/thiskorea81/schedule_web.git">깃허브 페이지</a>
       </section>
       <side>
