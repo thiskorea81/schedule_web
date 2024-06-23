@@ -18,8 +18,11 @@
         <p>This is the main content area.</p>
         <p>오른쪽 일정관리 페이지는 로컬 저장소를 사용해서 일정을 작성한 pc에서만 볼 수 있습니다.</p>
         <p>이 페이지는 chatGPT 4o를 이용해서 vue.js로 만들어졌으며 제작 소스는 아래 깃허브 페이지를 참조하세요</p>
-        <a href="https://github.com/thiskorea81/schedule_web.git">깃허브 페이지</a>
-        <a href="https://chatgpt.com/share/f2ac165b-7de3-4562-967d-62bfe53fdbef">chatGPT 공개 링크</a>
+        <ol>
+          <li><a href="https://github.com/thiskorea81/schedule_web.git">깃허브 페이지</a></li>
+          <li><a href="https://chatgpt.com/share/f2ac165b-7de3-4562-967d-62bfe53fdbef">chatGPT 공개 링크</a></li>
+        </ol>
+        
       </section>
       <side>
         <SideBar />
