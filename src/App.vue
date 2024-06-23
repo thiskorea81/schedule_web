@@ -16,6 +16,8 @@
       <section>
         <h2>Welcome to My Personal Website</h2>
         <p>This is the main content area.</p>
+        <p>이 페이지는 vue.js를 이용해서 만들어졌으며 제작 소스는 아래 깃허브 페이지를 참조하세요</p>
+        <a href="https://github.com/thiskorea81/schedule_web.git">깃허브 페이지</a>
       </section>
       <side>
         <SideBar />
